@@ -8,10 +8,10 @@ main:
   url: /search/
 
 docs:
-  - title: "목차"
-    children: 
-      - title: "Category"
-        url: /categories/
+- title: "목차"
+  children: 
+    - title: "Category"
+      url: /categories/
 
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
