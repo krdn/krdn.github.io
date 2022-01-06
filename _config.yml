@@ -15,11 +15,11 @@
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko-KR"
 title                    : "KRDN Note"
-title_separator          : "-"
+title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "KRDN Note"
+name                     : "Gon#"
 description              : "C#, ASP.NET Core, Blazor, Javascript, TypeScript, SQL, Angular"
 url                      : "https://kdn.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
