@@ -105,8 +105,8 @@ author:
   name             : "Gon Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "**C#** Developer."
-  location         : "Seoul"
-  email            :
+  location         : "South Korea"
+  email            : "krdn.net@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
