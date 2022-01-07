@@ -8,6 +8,8 @@ main:
   url: /search/
 - title: "Quick-Start Guide"
   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+
+#  각 페이지의 목차 정의
 docs:
 - title: "목차"
   children: 
