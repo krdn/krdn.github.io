@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "GitHub Blog 시작하기"
-permalink: /_post/github-blog-start/
+permalink: /github-blog-start/
 excerpt: "Github Blog 만드는 방벙"
 categories: manual
 tag: [blog, github, jekyll]
