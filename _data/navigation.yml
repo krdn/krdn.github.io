@@ -1,7 +1,7 @@
 # main links
 main:
 - title: "웹개발자 만들기"
-  url:  /study/quick-start-guide/
+  url:  /_docs/quick-start-guide/
 - title: "Category"
   url: /categories/
 - title: "Tag"
