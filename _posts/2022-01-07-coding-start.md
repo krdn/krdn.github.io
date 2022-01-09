@@ -2,7 +2,7 @@
 layout: single
 title:  "전문 웹개발자를 위한 기본 학습"
 excerpt: "코딩을 처음 시작할때 기반이 되는 준비 작업 및 학습 단계"
-categories: coding
+# categories: coding
 tag: [coding, study]
 toc: true
 author_profile: false
