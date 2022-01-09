@@ -1,6 +1,6 @@
 ---
 title: "🐷진이를 웹 개발자로 만들기"
-permalink: /docs/quick-start-guide/
+permalink: /docs/quick-start-guide7/
 excerpt: "How to quickly install and setup Minimal Mistakes for use with GitHub Pages."
 # last_modified_at: 2021-06-07T08:48:05-04:00
 redirect_from:
@@ -10,12 +10,12 @@ toc: true
 
 ## Gon's 블로그 안
 
-🐷진이를 웹 개발자로 만들기
+🐷진이를 웹 개발자로 만들기7
 
 1. C#
    1. LINQ
    2. EntityFramework Core
-2. We
+2. Web
    1. HTML
    2. CSS
       1. BootStrap
