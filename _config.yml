@@ -154,7 +154,7 @@ footer:
 include:
   - .htaccess
   - _pages
-  - _docs
+  # - _docs
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -315,7 +315,7 @@ defaults:
       author_profile: false
       share: false
       comments: false
-      # sidebar:
-      #   nav: "docs"
+      sidebar:
+        nav: "docs"
 
 date_format: "%Y-%m-%d"

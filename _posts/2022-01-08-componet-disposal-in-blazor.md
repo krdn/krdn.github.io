@@ -6,7 +6,7 @@
 
 
 IDisposable
-```razor
+```c#
 @page "/sample"
 
 @implements IDisposable
@@ -31,7 +31,7 @@ IDisposable
 
 
 IAsyncDisposable
-```razor
+```c#
 @page "/sample"
 
 @implements IAsyncDisposable
