@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "진이를 웹 개발자로 만들기"
 permalink: /aaa/aaa/
 excerpt: "How to quickly install and setup Minimal Mistakes for use with GitHub Pages."
