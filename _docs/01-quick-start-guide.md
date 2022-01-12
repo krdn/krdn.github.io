@@ -42,17 +42,3 @@ toc: true
    1. 개발용폰트
    2. aaa
 
-
-| layout           | class name                  |
-| ---------------- | --------------------------- |
-| archive          | `.layout--archive`          |
-| archive-taxonomy | `.layout--archive-taxonomy` |
-| search           | `.layout--search`           |
-| single           | `.layout--single`           |
-| splash           | `.layout--splash`           |
-| home             | `.layout--home`             |
-| posts            | `.layout--posts`            |
-| categories       | `.layout--categories`       |
-| category         | `.layout--category`         |
-| tags             | `.layout--tags`             |
-| tag              | `.layout--tag`              |

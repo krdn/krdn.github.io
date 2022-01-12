@@ -31,7 +31,7 @@ main:
   
 # documentation links
 docs:
-  - title: 시작
+  - title: Getting Started
     children:
       - title: "Quick-Start Guide"
         url: /docs/quick-start-guide/
