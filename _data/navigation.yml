@@ -31,57 +31,60 @@ main:
   
 # documentation links
 docs:
-  - title: Getting Started
+  - title: "시작"
     children:
-      - title: "Quick-Start Guide"
+      - title: "빠른 시작 안내서"
         url: /docs/quick-start-guide/
-      - title: "Structure"
+      - title: "필수 학습 기술"
         url: /docs/structure/
-      - title: "Installation"
+      - title: "학습 계획"
         url: /docs/installation/
-      - title: "Upgrading"
+      - title: "기술 스텍"
         url: /docs/upgrading/
-  - title: Customization
-    children:
-      - title: "Configuration"
-        url: /docs/configuration/
-      - title: "Overriding Theme Defaults"
-        url: /docs/overriding-theme-defaults/
-      - title: "Navigation"
-        url: /docs/navigation/
-      - title: "UI Text"
-        url: /docs/ui-text/
-      - title: "Authors"
-        url: /docs/authors/
-      - title: "Layouts"
+      - title: "개발도구"
         url: /docs/layouts/
-  - title: Content
+  
+  - title: "기본 학습"
     children:
-      - title: "Working with Posts"
-        url: /docs/posts/
-      - title: "Working with Pages"
-        url: /docs/pages/
-      - title: "Working with Collections"
-        url: /docs/collections/
-      - title: "Helpers"
-        url: /docs/helpers/
-      - title: "Utility Classes"
-        url: /docs/utility-classes/
-  - title: Extras
+      - title: "기술 블로그 만들기"
+        url: /docs/configuration/
+      - title: "GitHub 학습"
+        url: /docs/overriding-theme-defaults/
+      - title: "SourceTree"
+        url: /docs/navigation/
+      - title: "Git"
+        url: /docs/ui-text/
+      - title: "VS Code"
+        url: /docs/authors/
+
+  - title: "FrontEnd"
     children:
-      - title: "Stylesheets"
-        url: /docs/stylesheets/
+      - title: "HTML"
+        url: /docs/navigation/
+      - title: "CSS"
+        url: /docs/ui-text/
       - title: "JavaScript"
-        url: /docs/javascript/
-  - title: Meta
+        url: /docs/authors/
+
+  - title: "BackEnd"
     children:
-      - title: "History"
+      - title: "C#"
+        url: /docs/stylesheets/
+      - title: "ASP.NET Core"
+        url: /docs/javascript/
+      - title: "SQL"
+        url: /docs/stylesheets/
+      - title: "DataBase"
+        url: /docs/stylesheets/     
+
+  - title: "DevOps"
+    children:
+      - title: "Docker"
         url: /docs/history/
-      - title: "Contributing"
+      - title: "Azure"
         url: /docs/contributing/
-      - title: "Old 2.2 Docs"
+      - title: "CI/CD"
         url: /docs/docs-2-2/
-      - title: "License"
+      - title: "Agile(Scrum)"
         url: /docs/license/
-      - title: "Terms &amp; Privacy Policy"
-        url: /terms/
+
