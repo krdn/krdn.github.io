@@ -1,5 +1,5 @@
 ---
-title: "🐷진이를 웹 개발자로 만들기"
+title: "유진이를 웹 개발자로 만들기"
 permalink: /docs/quick-start-guide/
 excerpt: "How to quickly install and setup Minimal Mistakes for use with GitHub Pages."
 # last_modified_at: 2021-06-07T08:48:05-04:00
@@ -8,7 +8,7 @@ redirect_from:
 toc: true
 ---
 
-## Gon's 블
+## Gon's 블로그 
 
 
 1. C#
@@ -41,3 +41,18 @@ toc: true
 7. 기타
    1. 개발용폰트
    2. aaa
+
+
+| layout           | class name                  |
+| ---------------- | --------------------------- |
+| archive          | `.layout--archive`          |
+| archive-taxonomy | `.layout--archive-taxonomy` |
+| search           | `.layout--search`           |
+| single           | `.layout--single`           |
+| splash           | `.layout--splash`           |
+| home             | `.layout--home`             |
+| posts            | `.layout--posts`            |
+| categories       | `.layout--categories`       |
+| category         | `.layout--category`         |
+| tags             | `.layout--tags`             |
+| tag              | `.layout--tag`              |
