@@ -1,3 +1,13 @@
+---
+title: "닷넷 관련 뉴스 "
+permalink: /docs/dotnet-news/
+excerpt: ""
+# last_modified_at: 2021-06-07T08:48:05-04:00
+redirect_from:
+  - /theme-setup/
+toc: true
+---
+
 ## 닷넷 관련 뉴스 
 
 
