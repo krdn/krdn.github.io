@@ -6,6 +6,8 @@ excerpt: ""
 redirect_from:
   - /theme-setup/
 toc: true
+categories: 학습
+tag: [identityserver4]
 ---
 
 
