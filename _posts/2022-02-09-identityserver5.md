@@ -39,7 +39,7 @@ toc: true
 
 [IdentityServer4 + Asp.Net Core Identity in a single database](https://roaddd.com/identityserver4-aspnet-identity-single-database/)
 
-![](../images/2022-02-09-23-16-30.png)
+![](/images/2022-02-09-23-16-30.png)
 
 
 ## IdentityServer4.Templates 설치 필수
@@ -73,7 +73,7 @@ IdentityServer4 with In-Memory Stores and Test Users  is4inmem  [C#]  Web/Identi
 아래와 같은 2가지 방법으로 Project를 추가 할 수 있음.
 
 #### 1. VS 2019에서 추가하는 방법
-![](../images/2022-02-10-16-19-46.png)
+![](/images/2022-02-10-16-19-46.png)
 
 
 #### 2. 직접 cmd명령으로 추가하는 방법
