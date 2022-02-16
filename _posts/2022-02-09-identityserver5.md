@@ -10,9 +10,16 @@ redirect_from:
 toc: true
 ---
 
+## 선행 학습 
+
+[Oauth 2.0과 OpenID Connect 프로토콜 정리](https://velog.io/@jakeseo_me/Oauth-2.0%EA%B3%BC-OpenID-Connect-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C-%EC%A0%95%EB%A6%AC)
 
 
-[IdentityServer4 공식 문서](https://identityserver4.readthedocs.io/en/latest/index.html)
+
+
+
+
+## [IdentityServer4 공식 문서](https://identityserver4.readthedocs.io/en/latest/index.html)
 
 
 [.NET Microservices Sample Reference Application](https://github.com/dotnet-architecture/eShopOnContainers)
