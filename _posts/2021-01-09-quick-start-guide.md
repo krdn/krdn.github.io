@@ -6,6 +6,8 @@ excerpt: "How to quickly install and setup Minimal Mistakes for use with GitHub 
 redirect_from:
   - /theme-setup/
 toc: true
+tag: []
+categories: 학습
 -
 
 ## Gon's 블로그 안
