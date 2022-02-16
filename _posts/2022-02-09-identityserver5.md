@@ -12,7 +12,7 @@ toc: true
 
 ## 선행 학습 
 
-[Oauth 2.0과 OpenID Connect 프로토콜 정리](https://velog.io/@jakeseo_me/Oauth-2.0%EA%B3%BC-OpenID-Connect-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C-%EC%A0%95%EB%A6%AC)
+- [Oauth 2.0과 OpenID Connect 프로토콜 정리](https://velog.io/@jakeseo_me/Oauth-2.0%EA%B3%BC-OpenID-Connect-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C-%EC%A0%95%EB%A6%AC)
 
 
 
@@ -22,18 +22,14 @@ toc: true
 ## [IdentityServer4 공식 문서](https://identityserver4.readthedocs.io/en/latest/index.html)
 
 
-[.NET Microservices Sample Reference Application](https://github.com/dotnet-architecture/eShopOnContainers)
+- [.NET Microservices Sample Reference Application](https://github.com/dotnet-architecture/eShopOnContainers)
 
-[.NET Architecture Guides](https://dotnet.microsoft.com/en-us/learn/dotnet/architecture-guides)
-
-
-
-[.NET 마이크로 서비스: 컨테이너화된 .NET 애플리케이션을 위한 아키텍처](https://docs.microsoft.com/ko-kr/dotnet/architecture/microservices/?WT.mc_id=dotnet-35129-website)
+- [.NET Architecture Guides](https://dotnet.microsoft.com/en-us/learn/dotnet/architecture-guides)
 
 
+- [.NET 마이크로 서비스: 컨테이너화된 .NET 애플리케이션을 위한 아키텍처](https://docs.microsoft.com/ko-kr/dotnet/architecture/microservices/?WT.mc_id=dotnet-35129-website)
 
-
-[IdentityServer4 with PostgreSQL as a persistence store](https://medium.com/@aspram.shadyan.dev/identityserver4-with-postgresql-as-a-persistence-store-9941060d047f)
+- [IdentityServer4 with PostgreSQL as a persistence store](https://medium.com/@aspram.shadyan.dev/identityserver4-with-postgresql-as-a-persistence-store-9941060d047f)
 
 
 
