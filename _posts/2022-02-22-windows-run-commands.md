@@ -1,9 +1,9 @@
 ---
-title: "Windows Run Commands"
+title: "Windows Run Commands(Wiindow10 실행 명령어)"
 # permalink: /docs/quick-start-guide/
 excerpt: ""
 categories: windows
-tag: [runcommands]
+tag: [command, 명령어, windows]
 # last_modified_at: 2021-06-07T08:48:05-04:00
 # redirect_from:
 #   - /docs/quick-start-guide/
