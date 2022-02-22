@@ -83,6 +83,36 @@ dotnet new is4aspid
 
 http://localhost:[설정된 포트]/.well-known/openid-configuration
 
+https://deblokt.com/2019/09/20/02-identityserver4-entityframework/
 
+![aaa](https://deblokt.com/wp-content/uploads/2019/09/7-3.png)
+
+|--|--|
+
+|제목|내용|
+|------|---|
+|dbo.ApiClaims|테이블에는 특정 API 리소스에 대한 액세스 토큰에 포함될 사용자 클레임에 대한 클레임 유형이 있습니다.|
+|dbo.ApiProperties|테이블에는 특정 API 리소스와 관련된 추가 사용자 지정 키-값 쌍이 있습니다.|
+|dbo.ApiScopeClaims|테이블은 지정된 범위에 대한 액세스 토큰에 포함될 사용자 클레임을 정의합니다.|
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+
+
+
+
+
+- "dbo.ApiClaims" 테이블에는 특정 API 리소스에 대한 액세스 토큰에 포함될 사용자 클레임에 대한 클레임 유형이 있습니다.
+- "dbo.ApiProperties" 테이블에는 특정 API 리소스와 관련된 추가 사용자 지정 키-값 쌍이 있습니다.
+- "dbo.ApiResources" 테이블은 보호해야 하는 API를 나타내는 리소스를 보유하고 있습니다.
+"dbo.ApiScopeClaims" 테이블은 지정된 범위에 대한 액세스 토큰에 포함될 사용자 클레임을 정의합니다.
+- "dbo.ApiScopes" 테이블에는 특정 API 리소스에 대한 가능한 범위가 있습니다.
+- "dbo.ApiSecrets" 테이블은 자체 검사 끝점에서 사용하는 API 리소스 비밀을 보유합니다(JWT와 반대로 액세스 토큰을 참조 토큰으로 사용할 때 사용).
 
 
